@@ -2,10 +2,12 @@
 
 #### 🌟 star this repo if you like it
 
-<div align=center>
-  ![Screenshot 2025-01-10 233125](https://github.com/user-attachments/assets/2413bb7d-91f8-4985-a898-c451d95806cc)
-
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/2413bb7d-91f8-4985-a898-c451d95806cc" 
+       alt="Screenshot 2025-01-10 233125" 
+       style="width: 80%; height: auto; max-width: 800px;">
 </div>
+
 <br>
 
 # Project Moto 🚀
