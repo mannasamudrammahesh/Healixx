@@ -3,7 +3,7 @@
 #### 🌟 star this repo if you like it
 
 <div align=center>
-  <img src="![Screenshot 2025-01-10 233125](https://github.com/user-attachments/assets/9ac6e46c-797b-48e3-a604-58b6a4d52e32)" width=150 height=150>
+  <img src="![Screenshot 2025-01-10 233125](https://github.com/user-attachments/assets/2413bb7d-91f8-4985-a898-c451d95806cc)" width=150 height=150>
 </div>
 
 <br>
@@ -155,7 +155,7 @@ docker run -d -p 3000:3000 --name your_container_name your_image_name:tag
 
 <p align=center>Mental health test with a interactive panda to make it look good and also promote good mental steps through it's expressions</p>
 
-![Screenshot 2025-01-10 232001](https://github.com/user-attachments/assets/a3c09275-00c4-405b-8136-a9a8f9530130)
+![Screenshot 2025-01-10 232001](https://github.com/user-attachments/assets/7bd5b18d-c38c-4658-bddd-29c7dd438ab0)
 
 
 <p align=center>Panda smiles if you are following the correct steps and proper cure</p>
@@ -170,7 +170,7 @@ docker run -d -p 3000:3000 --name your_container_name your_image_name:tag
 
 <p align=center>Reward System and personalized health recommendation based on your test results</p>
 
-![Screenshot 2025-01-10 231713](https://github.com/user-attachments/assets/08d40dd3-4374-4900-8efb-b956f6813b8d)
+![Screenshot 2025-01-10 231713](https://github.com/user-attachments/assets/05fb6675-280e-4f39-b16a-3a45711cfdc2)
 
 
 <p align=center>Upload your medical history documents and you will be able to know more about your condition and also get personalized health recommendations</p>
