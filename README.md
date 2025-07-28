@@ -114,85 +114,68 @@ docker run -d -p 3000:3000 --name your_container_name your_image_name:tag
 
 ![Screenshot 2025-07-10 221248](https://github.com/user-attachments/assets/e8e1d915-6789-4560-94c5-9b9c8da89b8d)
 
-<p align=center>Imagine yourself to improve your mental condition</p>
-
-![Screenshot 2025-07-10 223821](https://github.com/user-attachments/assets/65d48853-e394-4a4f-affe-4c439ce1ba75)
-
 <p align=center>Ai Chatbot which acts as a counsellar</p>
 
-![Screenshot 2025-07-10 223912](https://github.com/user-attachments/assets/bd334528-995b-450f-9295-a88cc98a004d)
+![Screenshot 2025-07-10 223912](https://github.com/user-attachments/assets/fc570422-784c-4713-97c0-45cdb7f7ba79)
 
-<p align=center>A Blog where people write about mental health</p>
-
-![Screenshot 2025-01-10 234650](https://github.com/user-attachments/assets/7f044faa-f1b7-4946-8688-a1acb67d3902)
 
 <p align=center>User Management</p>
 
-![Screenshot 2025-01-10 224038](https://github.com/user-attachments/assets/f8b2aa91-499a-4492-8d84-4113694db0ef)
+![Screenshot 2025-01-10 224038](https://github.com/user-attachments/assets/17ca728c-6667-4d44-b8a6-2948a6b0edf7)
 
 
 <p align=center>Contact Form</p>
 
-![Screenshot 2025-01-10 224146](https://github.com/user-attachments/assets/ea31daa4-6441-4418-a425-a5a90c81fa53)
+![Screenshot 2025-01-10 224146](https://github.com/user-attachments/assets/bf8dddc7-dd80-48a7-917a-7691486bba0e)
 
 
 <p align=center>Mental Health Choose</p>
 
-![Screenshot 2025-01-10 224227](https://github.com/user-attachments/assets/81c42953-204e-4ca6-a847-51b3ade836f4)
+![Screenshot 2025-01-10 224227](https://github.com/user-attachments/assets/8f87c143-696c-40d7-9d10-36fb66eab418)
 
 <p align=center>Virtual Therapist</p>
 
-![Screenshot 2025-01-10 224354](https://github.com/user-attachments/assets/82f9c7df-8a76-4634-b723-5ea2c5553f6f)
-
-
-<p align=center>Image based disease prediction, question / answer and personalized health recommendation</p>
-
-![Screenshot 2025-01-10 224609](https://github.com/user-attachments/assets/d4cd6e1e-98e3-4395-9191-6c7a3537d698)
+![Screenshot 2025-01-10 224354](https://github.com/user-attachments/assets/e00b66f3-53ff-4c5e-8e7d-65015f1efa3e)
 
 
 <p align=center>Notification system</p>
 
-![Screenshot 2025-01-10 224647](https://github.com/user-attachments/assets/2160b67b-cdb4-4bdd-b60f-32085be112c3)
+![Screenshot 2025-01-10 224647](https://github.com/user-attachments/assets/3becb47b-212b-43c5-bdc5-2e35d7e0d0d8)
 
 
 <p align=center>Notification System</p>
 
-![Screenshot 2025-01-10 224716](https://github.com/user-attachments/assets/a8d25245-7c43-4754-a220-c2f7aaa70bf9)
+![Screenshot 2025-01-10 224716](https://github.com/user-attachments/assets/0a5e4d95-2262-4187-9e8a-fd6b16e84127)
 
 
 <p align=center>Guidance for the disease you have selected</p>
 
-![Screenshot 2025-01-10 231803](https://github.com/user-attachments/assets/7afb7bf1-41bf-4ed9-8b21-6151b1e4770e)
-
-
-<p align=center>Response from the llm</p>
-
-![Screenshot 2025-01-10 231859](https://github.com/user-attachments/assets/4f08a2cf-08d8-4a5d-9e25-9e6b66c336a3)
+![Screenshot 2025-01-10 231803](https://github.com/user-attachments/assets/1a68b388-0c31-4f62-9b96-a4a786c3296c)
 
 
 <p align=center>Mental health test with a interactive panda to make it look good and also promote good mental steps through it's expressions</p>
 
-![Screenshot 2025-01-10 232001](https://github.com/user-attachments/assets/9a8ab6d3-362b-497d-82c5-11e3e004ff5f)
+![Screenshot 2025-01-10 232001](https://github.com/user-attachments/assets/a3c09275-00c4-405b-8136-a9a8f9530130)
 
 
 <p align=center>Panda smiles if you are following the correct steps and proper cure</p>
 
-![Screenshot 2025-01-10 232024](https://github.com/user-attachments/assets/8aa03b6c-8adc-4899-a068-01bc1ac48041)
+![Screenshot 2025-01-10 232024](https://github.com/user-attachments/assets/6c117821-2a7f-4a7a-a2ef-2755b368e4ad)
 
 
 <p align=center>Panda gets sad when you are following wrong steps and further deteriorating your health</p>
 
-![Screenshot 2025-01-10 232055](https://github.com/user-attachments/assets/51ba0b31-9a8c-48c8-97f9-8de625aa6ddd)
+![Screenshot 2025-01-10 232055](https://github.com/user-attachments/assets/3c5f4023-d1d4-400a-a731-c83e349fb30f)
 
 
 <p align=center>Reward System and personalized health recommendation based on your test results</p>
 
-![Screenshot 2025-01-10 231713](https://github.com/user-attachments/assets/6d67436a-b856-4bf0-9cd8-0dc5ff8bf7f9)
+![Screenshot 2025-01-10 231713](https://github.com/user-attachments/assets/08d40dd3-4374-4900-8efb-b956f6813b8d)
 
 
 <p align=center>Upload your medical history documents and you will be able to know more about your condition and also get personalized health recommendations</p>
 
-![Screenshot 2025-01-10 232721](https://github.com/user-attachments/assets/fc35b280-b8bc-4369-92e5-ce8921eaafa7)
+![Screenshot 2025-01-10 232721](https://github.com/user-attachments/assets/a2ba3371-6747-4567-96f4-9f78533581e9)
 
 
 ## Contribution Guidelines
