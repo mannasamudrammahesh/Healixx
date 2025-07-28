@@ -104,23 +104,23 @@ docker run -d -p 3000:3000 --name your_container_name your_image_name:tag
 
 <p align=center>Splash screen</p>
 
-![Screenshot 2025-01-10 232455](https://github.com/user-attachments/assets/dd3249db-3830-41a5-90ba-6376f68e6f94)
+![Screenshot 2025-07-10 232455](https://github.com/user-attachments/assets/dd3249db-3830-41a5-90ba-6376f68e6f94)
 
 <p align=center>Authentication Page</p>
 
-![Screenshot 2025-01-10 232543](https://github.com/user-attachments/assets/728136e8-8621-4ad3-861e-ceb21257ac55)
+![Screenshot 2025-07-10 232543](https://github.com/user-attachments/assets/728136e8-8621-4ad3-861e-ceb21257ac55)
 
 <p align=center>Home Page</p>
 
-![Screenshot 2025-01-10 221248](<img width="1911" height="1039" alt="Image" src="https://github.com/user-attachments/assets/e8e1d915-6789-4560-94c5-9b9c8da89b8d" />)
+![Screenshot 2025-07-10 221248](https://github.com/user-attachments/assets/e8e1d915-6789-4560-94c5-9b9c8da89b8d)
 
 <p align=center>Imagine yourself to improve your mental condition</p>
 
-![Screenshot 2025-01-10 223821](https://github.com/user-attachments/assets/65d48853-e394-4a4f-affe-4c439ce1ba75)
+![Screenshot 2025-07-10 223821](https://github.com/user-attachments/assets/65d48853-e394-4a4f-affe-4c439ce1ba75)
 
 <p align=center>Ai Chatbot which acts as a counsellar</p>
 
-![Screenshot 2025-01-10 223912](https://github.com/user-attachments/assets/bd334528-995b-450f-9295-a88cc98a004d)
+![Screenshot 2025-07-10 223912](https://github.com/user-attachments/assets/bd334528-995b-450f-9295-a88cc98a004d)
 
 <p align=center>A Blog where people write about mental health</p>
 
