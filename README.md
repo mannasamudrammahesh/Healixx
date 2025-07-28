@@ -4,8 +4,8 @@
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/2413bb7d-91f8-4985-a898-c451d95806cc" 
-       alt="Screenshot 2025-01-10 233125" 
-       style="width: 80%; height: auto; max-width: 800px;">
+       alt="Screenshot 2025-07-10 233125" 
+       style="width: 150px; height: 150px;">
 </div>
 
 <br>
