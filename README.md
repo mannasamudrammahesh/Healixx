@@ -32,55 +32,47 @@ Promote and encourage healthy lifestyles through data-driven insights and person
 
 Connect with our Chat Counselor, your virtual therapist, for personalized mental health sessions. Discuss your thoughts and feelings in a safe and supportive environment.
 
-### 2. Imagination Enhancement 🌌🔄
-
-Boost your creativity by swapping images to stimulate your imagination. Unleash your mind's potential and explore new perspectives.
-
-### 3. Mental Health Blog 📚🧘‍♂️
+### 2. Mental Health Blog 📚🧘‍♂️
 
 Stay informed and inspired with our blog. Read insightful articles on mental health, coping mechanisms, and success stories. Join the conversation and share your thoughts!
 
-### 4. Contact System 📞💬
+### 3. Contact System 📞💬
 
 Reach out for help easily with our integrated contact system. Connect with professionals or support groups to get the assistance you need.
 
-### 5. Robust Authentication 🔒🛡️
+### 4. Robust Authentication 🔒🛡️
 
 Rest easy knowing your data is secure. Our strong authentication system ensures your privacy is prioritized.
 
-### 6. Interactive Elements 🐼🌟
+### 5. Interactive Elements 🐼🌟
 
 Meet our friendly panda mascot and earn awards based on your proactive approach to mental health. Engage with interactive elements to make your mental health journey enjoyable.
 
-### 7. Personalized Recommendations 📋💡
+### 6. Personalized Recommendations 📋💡
 
 Receive tailored health recommendations based on your precautions and approach towards mental well-being. Our system adapts to your unique needs.
 
-### 8. Health History Integration 📂🩺
+### 7. Health History Integration 📂🩺
 
 Answer questions and receive personalized recommendations based on your medical history and health-related documents. Your journey, your way.
 
-### 9. LLMs for Latest Information 🧠📚
+### 8. LLMs for Latest Information 🧠📚
 
 Leverage the power of Large Language Models (LLMs) to access the latest information on mental health. Stay updated with accurate and relevant content.
 
-### 10. Mental Health Tests 📊🧐
+### 9. Mental Health Tests 📊🧐
 
 Take tests designed to predict your mental condition and its current stage. Gain insights into your emotional well-being and track your progress.
 
-### 11. Image Recognition for Health 📸💊
-
-Use Image Recognition to predict diseases by providing photos of symptoms. Obtain information about medicinal drugs frnom images. Empower yourself with visual health insights.
-
-### 12. Dark & Light Modes 🌗🌓
+### 10. Dark & Light Modes 🌗🌓
 
 Toggle between dark and light modes for a personalized visual experience. Choose what suits your mood and enhances your interaction with the platform.
 
-### 13. Flexible Training with Makersuite 🛠️🔄
+### 11. Flexible Training with Makersuite 🛠️🔄
 
 Easily train the LLM model through Makersuite, making our platform flexible and powerful. Customize your experience to match your evolving needs.
 
-### 14. Gemini Pro for Updated Information 🌐🔄
+### 12. Gemini Pro for Updated Information 🌐🔄
 
 Access the internet seamlessly with Gemini Pro to ensure our system provides correct and quality responses. Stay informed with real-time data.
 
@@ -120,7 +112,7 @@ docker run -d -p 3000:3000 --name your_container_name your_image_name:tag
 
 <p align=center>Home Page</p>
 
-![Screenshot 2025-01-10 221248](https://github.com/user-attachments/assets/5b1b15d1-8dca-4fa4-b8e0-2d6a9ee3aa7d)
+![Screenshot 2025-01-10 221248](<img width="1911" height="1039" alt="Image" src="https://github.com/user-attachments/assets/e8e1d915-6789-4560-94c5-9b9c8da89b8d" />)
 
 <p align=center>Imagine yourself to improve your mental condition</p>
 
@@ -202,13 +194,6 @@ docker run -d -p 3000:3000 --name your_container_name your_image_name:tag
 
 ![Screenshot 2025-01-10 232721](https://github.com/user-attachments/assets/fc35b280-b8bc-4369-92e5-ce8921eaafa7)
 
-
-## Demo
-
-<a href="https://www.youtube.com/watch?v=1jk-MocZ1vI">
-  <img src="![Screenshot 2025-01-10 233125](https://github.com/user-attachments/assets/1d416ba7-afa4-40e4-88f3-5830be69e8a4)
-" alt="mental health" width=400 height=300>
-</a>
 
 ## Contribution Guidelines
 
