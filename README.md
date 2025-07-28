@@ -3,7 +3,7 @@
 #### 🌟 star this repo if you like it
 
 <div align=center>
-  <img src="![Screenshot 2025-01-10 233125](https://github.com/user-attachments/assets/2413bb7d-91f8-4985-a898-c451d95806cc)" width=150 height=150>
+  <img src="![Screenshot 2025-01-10 233125](https://github.com/user-attachments/assets/2413bb7d-91f8-4985-a898-c451d95806cc) height=150 width=150" >
 </div>
 
 <br>
